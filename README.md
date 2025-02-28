@@ -1,2 +1,2 @@
 # bun-astro
-[https://github.com/Alejool/bun-astro](https://github.com/Alejool/man-collections)
+(https://github.com/Alejool/man-collections)
